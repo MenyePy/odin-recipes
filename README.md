@@ -1,2 +1,2 @@
 # odin-recipes
-Making a recipes website for the odin project.
+Making a recipes website for the Odin project html class.
